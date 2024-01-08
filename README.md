@@ -16,7 +16,8 @@ PORT - N/A
 DATABASE_URL - URL to the running Postgres instance/db
 
 How to initialize/run your application (where applicable)
-e.g. python main.py
+
+python snakes_cafe.py
 
 How to use your library (where applicable)
 
