@@ -86,6 +86,7 @@ def userOrder(Appetizers, Entrees, Desserts, Drinks):
                 time.sleep(0.5)
                 delay_print("Can't really tell you that I can only read case-sensitive . . .")
                 time.sleep(1)
+                print()
                         
         except ValueError:
             print("Sorry I didn't quite catch that can you tell me again?")
@@ -93,6 +94,7 @@ def userOrder(Appetizers, Entrees, Desserts, Drinks):
 def outro():
     
     print("Ok see you later!")
+    exit(0)
         
 def main():
 
